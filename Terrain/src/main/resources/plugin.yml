@@ -1,0 +1,6 @@
+main: unca.edu.szhang.Terrain.Terrain
+name: ${project.name}
+version: ${project.version}
+load: startup
+author: ShuoZhang
+description: ${project.description}
